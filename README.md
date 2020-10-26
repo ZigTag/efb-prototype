@@ -1,4 +1,3 @@
 # efb-prototype
 
-This repo contains my prototype of the EFB
-for the flybywiresim/a32nx project.
+This repo is now located at https://github.com/flybywiresim/efb
